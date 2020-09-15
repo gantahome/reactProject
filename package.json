@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "bootstrap": "^4.4.1",
+    "create-react-component": "0.0.4",
     "history": "^4.6.3",
     "react": "^16.0.0",
     "react-bootstrap": "^1.0.0-beta.16",
